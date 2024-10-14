@@ -18,4 +18,5 @@ export default defineConfig({
   build: {
     outDir: 'docs', // Set the output directory to 'docs'
   },
+  base: './',
 })
